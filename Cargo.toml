@@ -9,6 +9,7 @@ homepage = "https://github.com/kiran-4444/grrs"
 repository = "https://github.com/kiran-4444/grrs"
 keywords = ["cli", "search", "demo"]
 categories = ["command-line-utilities"]
+edition = "2021"
 
 [dependencies]
 clap = { version = "4.0", features = ["derive"] }
