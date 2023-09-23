@@ -1,0 +1,1 @@
+Sample crate for practicing Rust.
