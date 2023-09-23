@@ -270,7 +270,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "grrs"
+name = "grrs_ck"
 version = "0.1.0"
 dependencies = [
  "anyhow",
